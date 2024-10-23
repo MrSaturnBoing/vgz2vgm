@@ -2,7 +2,7 @@
 import os
 import shutil
 import gzip
-import shutil
+
 
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
